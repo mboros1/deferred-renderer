@@ -1,0 +1,4 @@
+/Users/martinboros/git/final-project-martin-boros/part1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/martinboros/git/final-project-martin-boros/part1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/martinboros/git/final-project-martin-boros/part1/cmake-build-debug/CMakeFiles/test.dir
+/Users/martinboros/git/final-project-martin-boros/part1/cmake-build-debug/CMakeFiles/OpenGLfromScratch.dir
