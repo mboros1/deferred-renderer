@@ -21,9 +21,9 @@ sudo apt install libassimp-dev
 https://youtu.be/S-fF5R1jeBc
 
 
-<img src="./part1/media/forward_rendering.png">
-<img src="./part1/media/deferred_rendering.png">
-<img src="./part1/media/tile_deferred_rendering.png">
+<img src="./media/forward_rendering.png">
+<img src="./media/deferred_rendering.png">
+<img src="./media/tile_deferred_rendering.png">
 
 * Name and partners name(At most teams of 2 folks total)
   * Team member 1: Martin Boros
